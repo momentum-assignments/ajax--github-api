@@ -4,7 +4,7 @@
 
 In today's project, you'll be asked to not only write code to make live Ajax requests, but also write some HTML and CSS to bring a mockup to life.
 
-- Start with the mockup below and using the GitHub API, pull in the info to build yourself a virtual business card.
+- Start with the mockup below, and using the GitHub API, pull in the info to build yourself a virtual business card.
 - Everything _but_ the headers ("The Basics", "The Story") and the bio will be pulled in via GitHub's API. If it's not there on your GitHub profile, then add it.
 - Make sure to pull your avatar in with GitHub and make it a circle.
 
@@ -24,6 +24,6 @@ Once you have a decent grasp on that, start setting up your Ajax calls and setti
 ## Resources
 
 - [Full Screen Mockup](github-portfolio.png)
-- [GitHub User API](https://api.github.com/users/username) - change username
-- [GitHub API Docs](https://developer.github.com/v3/)
+- [GitHub User API](https://api.github.com/users/username) - change `username` in this url to your own username
+- [GitHub API Docs](https://docs.github.com/en/rest)
 - [Sawtooth banners with CSS](https://medium.com/coding-design/saw-tooth-banners-with-css-95c31e91c196)
