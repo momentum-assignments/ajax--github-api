@@ -14,12 +14,12 @@ In today's project, you'll be asked to not only write code to make live Ajax req
 
 Since there are no starter files provided, you'll need to create your own HTML, CSS, and JavaScript files and link them together properly. Before you start writing any JavaScript, we suggest you spend a few moments reading through the GitHub API docs listed below to get familiar with how you can obtain the data.
 
-Once you have a decent grasp on that, start setting up your Ajax calls and setting up your callback functions to work with the data you retrieve.
+Once you have a decent grasp on that, start setting up your Ajax calls and setting up your callback functions to work with the data you retrieve. Insomnia will be helpful to do this as you get started.
 
 ## Bonus steps
 
-1. Read up on the [hCard microformat](http://microformats.org/wiki/h-card) and make sure your page conforms to the hCard standard.
-2. Incorporate what you learned from this to make your portfolio show your GitHub information.
+1. Show your repositories, organizations, and any other interesting data you can request from GitHub that you'd like to add.
+2. Read up on the [hCard microformat](http://microformats.org/wiki/h-card) and make sure your page conforms to the hCard standard.
 
 ## Resources
 
@@ -27,3 +27,4 @@ Once you have a decent grasp on that, start setting up your Ajax calls and setti
 - [GitHub User API](https://api.github.com/users/username) - change `username` in this url to your own username
 - [GitHub API Docs](https://docs.github.com/en/rest)
 - [Sawtooth banners with CSS](https://medium.com/coding-design/saw-tooth-banners-with-css-95c31e91c196)
+- [Getting Started with Insomnia](https://support.insomnia.rest/article/11-getting-started) -- Download the Core app, not the Designer app.
